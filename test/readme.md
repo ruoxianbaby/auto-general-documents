@@ -15,3 +15,4 @@
 - docker,k8s  
 - redis 实现分布式锁  
 - elasticsearch  
+- 注重代码规范(PSR)，编写文档，思考最佳实践
